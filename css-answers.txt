@@ -1,0 +1,66 @@
+
+What does CSS stand for ?
+Cascading style sheets
+ 
+If we want to define style for a unique element, then which css selector will we use ?
+id
+ 
+Suppose we want to arrange 4 number of DIVs so that DIV4 is placed above DIV1. Now, which css property will we use to control the order of stack?
+z-index
+ 
+Which of the following is the correct syntax to display the hyperlinks without any underline?
+a{text-decoration : "none"}
+ 
+Which CSS property is used to deal with the transparency of an element -
+opacity
+ 
+Give the css to give a solid black border of 2px to a div of id = "example"
+#example{ border: 2px solid black }
+ 
+ 
+Which selector is used to give a universal styling
+*
+ 
+Write down the CSS to show the vertical scroll bar in a div of class "example" only if overflow occurs.
+overflow-y : auto
+ 
+Write down the CSS to center the items in a flexbox. Take the classname of the div as "example"
+.exampe{ display:flex; align-items:centre ; justify-content:centre }
+ 
+Write down the CSS to make the text as bold in a paragraph with class="para"
+.para{ font-weight: bold; }
+ 
+Which of the following is not the property of the CSS box model?
+color
+ 
+Which of the following is an appropriate value for the overflow element?
+All of the above
+ 
+Write the css to change the background color to black of a div on hovering. Take the class name as "btn"
+.btn:hover{ background-color : black }
+ 
+The correct syntax for referring the external style sheet among the following is?
+<link rel="stylesheet" type="text/css" href="style.css">
+ 
+The HTML attribute used to define the inline styles is -
+style
+ 
+The HTML attribute used to define the internal stylesheet is -
+<style>
+ 
+Write the CSS to make color of the text of all paragraphs to be red
+p{ color:red }
+ 
+ 
+Which of the following syntax is correct in CSS to make each word of a sentence to be a capital letter?
+text-transfrom : uppercase;
+ 
+Give the shorthand syntax to give margin to a div as 2px from top and bottom , 5px from left and right. Take the class name as "box".
+.box{ margin: 2px 5px }
+ 
+ 
+Where in an HTML document is the correct place to refer to an external style sheet?
+head
+
+// for angular course assignments
+npm install --legacy-peer-deps
